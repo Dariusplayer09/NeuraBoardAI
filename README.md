@@ -1,4 +1,3 @@
-```markdown
 # 🧠 NeuraBoardAI — Full-Stack AI Application
 
 > Currently in active development. Private repo.
@@ -41,4 +40,3 @@ flowchart TD
 ---
 
 *Built and maintained by Darius-Alexandru Farcas — Milan, 2026*
-```
