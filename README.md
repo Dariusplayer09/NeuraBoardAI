@@ -35,8 +35,8 @@ flowchart TD
 
 ## Status
 🔨 Actively building — shipping toward first users.  
-📩 Interested? Reach out: [darius.farcas56@gmail.com](mailto:darius.farcas56@gmail.com) fifilukasiewicz@gmail.com](mailto:fifilukasiewicz@gmail.com)
+📩 Interested? Reach out: [darius.farcas56@gmail.com](mailto:darius.farcas56@gmail.com) [fifilukasiewicz@gmail.com](mailto:fifilukasiewicz@gmail.com)
 
 ---
 
-*Built and maintained by Darius-Alexandru Farcas & Filip Lukasiewicz— Milan, 2026*
+*Built and maintained by Darius-Alexandru Farcas & Filip Lukasiewicz — Milan, 2026*
